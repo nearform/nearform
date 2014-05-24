@@ -1,0 +1,21 @@
+{
+  "name": "nearform",
+  "version": "0.0.0",
+  "description": "nearform",
+  "main": "nearform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nearform/nearform.git"
+  },
+  "keywords": [
+    "nearform"
+  ],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/nearform/nearform/issues"
+  },
+  "homepage": "https://github.com/nearform/nearform"
+}
